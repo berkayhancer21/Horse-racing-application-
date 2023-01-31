@@ -1,0 +1,22 @@
+C:\Users\MONSTER\source\repos\WindowsFormsApp40\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.exe.config
+C:\Users\MONSTER\source\repos\WindowsFormsApp40\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.exe
+C:\Users\MONSTER\source\repos\WindowsFormsApp40\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.pdb
+C:\Users\MONSTER\source\repos\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\source\repos\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.Form1.resources
+C:\Users\MONSTER\source\repos\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.exe
+C:\Users\MONSTER\source\repos\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Murat Yücedağ Windows Form Örnekler\WindowsFormsApp40\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.exe.config
+C:\Users\MONSTER\OneDrive\Masaüstü\Murat Yücedağ Windows Form Örnekler\WindowsFormsApp40\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\Murat Yücedağ Windows Form Örnekler\WindowsFormsApp40\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Murat Yücedağ Windows Form Örnekler\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.AssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Murat Yücedağ Windows Form Örnekler\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Murat Yücedağ Windows Form Örnekler\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.Form1.resources
+C:\Users\MONSTER\OneDrive\Masaüstü\Murat Yücedağ Windows Form Örnekler\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.Properties.Resources.resources
+C:\Users\MONSTER\OneDrive\Masaüstü\Murat Yücedağ Windows Form Örnekler\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.GenerateResource.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Murat Yücedağ Windows Form Örnekler\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Murat Yücedağ Windows Form Örnekler\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\Murat Yücedağ Windows Form Örnekler\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.pdb
